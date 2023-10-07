@@ -31,7 +31,7 @@ public class Main {
             System.out.println("Suma numerelor: " + suma);
             System.out.println("Media numerelor: " + media);
         } catch (ArithmeticException e) {
-            System.out.println("Nu ați introdus niciun număr.");
+            System.out.println("Eroare a datelor");
         }
 
         // E. Liste
