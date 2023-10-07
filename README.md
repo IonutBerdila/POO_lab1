@@ -1,0 +1,1 @@
+Calculator simplu al sumei și mediei.
